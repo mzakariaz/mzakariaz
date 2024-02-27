@@ -23,7 +23,7 @@ If you wish to know more about me or get in touch, please feel free to take a lo
 
 Thanks for stopping by!
 
-![Profile Views](https://komarev.com/ghpvc/?username=mzakariaz)
+
 
 ## Credits
 - Badges provided by [shields.io](https://shields.io/)
