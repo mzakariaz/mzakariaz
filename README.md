@@ -11,7 +11,7 @@ My name is Zakaria Zerrouki. I am a recent MSc Mathematics graduate from the Uni
 | R | `tidyr`, `dplyr`, `ggplot2`, `readr`, `lubridate`, `caret` |
 | LaTeX | `amsmath`, `amssymb`, `amsthm`, `datetime2`, `fourier`, `fourier-orns`, `lettrine`, `mathdesign`, `titlesec`, `cleveref`, `hyperref`, `physics`, `tcolorbox`, `tikz`, `pgfplots` |
 
-- &#x2699; **Curently working on:** [Pure Mathematics](https://github.com/mzakariaz/Projects/tree/main/mathematics/Python) and [Quantitative Finance](https://github.com/mzakariaz/Projects/tree/main/quantitative_finance/Python) projects.
+- &#x2699; **Currently working on:** [Pure Mathematics](https://github.com/mzakariaz/Projects/tree/main/mathematics/Python) and [Quantitative Finance](https://github.com/mzakariaz/Projects/tree/main/quantitative_finance/Python) projects.
 - 💡 **Currently learning about:** Data Analysis, Data Science and Machine Learning on <a href = 'https://www.datacamp.com/'>DataCamp</a>.
 - ⚡ **Fun fact:** LaTeX is the first programming language I learned.
 
