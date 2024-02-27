@@ -8,8 +8,8 @@ My name is Zakaria Zerrouki. I am a recent MSc Mathematics graduate from the Uni
   * Python: `time`, `numpy`, `sympy`, `scipy`, `pandas`, `matplotlib`, `seaborn`, `statsmodels`, `pingouin`, `scikit-learn`, `yfinance`
   * R: `tidyr`, `dplyr`, `ggplot2`, `readr`, `lubridate`, `caret`
   * LaTeX: `amsmath`, `amssymb`, `amsthm`, `datetime2`, `fourier`, `fourier-orns`, `lettrine`, `mathdesign`, `titlesec`, `cleveref`, `hyperref`, `physics`, `tcolorbox`, `tikz`, `pgfplots`
-- &#x2699; Curent work: <a href = 'https://github.com/mzakariaz/Projects/tree/main/mathematics/Python'>Pure Mathematics</a> and <a href = 'https://github.com/mzakariaz/Projects/tree/main/quantitative_finance/Python'>Quantitative Finance</a> projects.
-- 💡 Current interests: Data Analysis, Data Science and Machine Learning on <a href = 'https://www.datacamp.com/'>DataCamp</a>.
+- &#x2699; Curently working on: <a href = 'https://github.com/mzakariaz/Projects/tree/main/mathematics/Python'>Pure Mathematics</a> and <a href = 'https://github.com/mzakariaz/Projects/tree/main/quantitative_finance/Python'>Quantitative Finance</a> projects.
+- 💡 Currently learning about: Data Analysis, Data Science and Machine Learning on <a href = 'https://www.datacamp.com/'>DataCamp</a>.
 - ⚡ Fun fact: LaTeX is the first programming language I learned.
 
 If you wish to know more about me or get in touch, please feel free to take a look at my links, below:
