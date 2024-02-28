@@ -3,9 +3,16 @@ My name is Zakaria Zerrouki. I am a recent MSc Mathematics graduate from the Uni
 
 - 📖 **Graduate studies:** Mathematical Analysis, Topology, Probability Theory, Computational Finance, Combinatorics and Graph Theory.
 - 👨‍💻 **Software:** Python, R, SQL, Microsoft Excel, Microsoft VBA, Microsoft Office, MarkDown, LaTeX
-- 📚 **Libraries/Packages:** `numpy`, `sympy`, `scipy`, `pandas`, `matplotlib`, `seaborn`, `statsmodels`, `pingouin`, `scikit-learn`, `yfinance`, `PyPortfolioOpt`, `RiskFolio-Lib`, `tidyr`, `dplyr`, `ggplot2`, `readr`, `lubridate`, `caret`, `amsmath`, `amsthm`, `amssymb`, `fourier`, `fouriernc`, `stix`, `mathdesign`, `physics`, `tcolorbox`, `tikz`, `pgfplots`
+- 📚 **Libraries/Packages:**
+
+|  Language   |  Libraries/Packages                                                                                                                                      |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  Python     |  `numpy`, `sympy`, `scipy`, `pandas`, `matplotlib`, `seaborn`, `statsmodels`, `pingouin`, `scikit-learn`, `yfinance`, `PyPortfolioOpt`, `RiskFolio-Lib`  |
+|  R          |  `tidyr`, `dplyr`, `ggplot2`, `readr`, `lubridate`, `caret`                                                                                              |
+|  LaTeX      |  `amsmath`, `amsthm`, `amssymb`, `fourier`, `fouriernc`, `stix`, `mathdesign`, `physics`, `tcolorbox`, `tikz`, `pgfplots`                                |
+
 - &#x2699; **Currently working on:** [Pure Mathematics](https://github.com/mzakariaz/side-projects/tree/main/mathematics/python) and [Quantitative Finance](https://github.com/mzakariaz/side-projects/tree/main/quantitative-finance/python) projects.
-- 💡 **Currently learning about:** Data Analysis, Data Science and Machine Learning on <a href = 'https://www.datacamp.com/'>DataCamp</a>.
+- 💡 **Currently learning about:** Data Analysis, Data Science and Machine Learning on [DataCamp](https://www.datacamp.com/).
 - ⚡ **Fun fact:** LaTeX is the first programming language I learned.
 
 If you wish to know more about me or get in touch, please feel free to take a look at my links, below:
@@ -22,5 +29,5 @@ Thank you for stopping by! 😄
 ![Profile Views](https://komarev.com/ghpvc/?username=mzakariaz&color=red&style=for-the-badge&label=PROFILE_VISITS)
 
 ## Credits
-- Badges provided by [Shields.io](https://shields.io/)
-- Profile views badge provided by [Anton Komarev](https://github.com/antonkomarev)
+- Static badges provided by [Shields.io](https://shields.io/)
+- Profile visits badge provided by [Anton Komarev](https://github.com/antonkomarev)
