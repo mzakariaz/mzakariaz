@@ -4,7 +4,7 @@ My name is Zakaria Zerrouki. I am a recent MSc Mathematics graduate from the Uni
 - 📖 **Graduate studies:** Mathematical Analysis, Topology, Probability Theory, Computational Finance, Combinatorics and Graph Theory.
 - 👨‍💻 **Software:** Python, R, SQL, Microsoft Excel, Microsoft VBA, Microsoft Office, MarkDown, LaTeX
 - 📚 **Libraries/Packages:** `numpy`, `sympy`, `scipy`, `pandas`, `matplotlib`, `seaborn`, `statsmodels`, `pingouin`, `scikit-learn`, `yfinance`, `PyPortfolioOpt`, `RiskFolio-Lib`, `tidyr`, `dplyr`, `ggplot2`, `readr`, `lubridate`, `caret`, `amsmath`, `amsthm`, `amssymb`, `fourier`, `fouriernc`, `stix`, `mathdesign`, `physics`, `tcolorbox`, `tikz`, `pgfplots`
-- &#x2699; **Currently working on:** [Pure Mathematics](https://github.com/mzakariaz/Projects/tree/main/mathematics/Python) and [Quantitative Finance](https://github.com/mzakariaz/Projects/tree/main/quantitative_finance/Python) projects.
+- &#x2699; **Currently working on:** [Pure Mathematics](https://github.com/mzakariaz/side-projects/tree/main/mathematics/python) and [Quantitative Finance](https://github.com/mzakariaz/side-projects/tree/main/quantitative-finance/python) projects.
 - 💡 **Currently learning about:** Data Analysis, Data Science and Machine Learning on <a href = 'https://www.datacamp.com/'>DataCamp</a>.
 - ⚡ **Fun fact:** LaTeX is the first programming language I learned.
 
