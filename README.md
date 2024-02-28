@@ -17,12 +17,12 @@ My name is Zakaria Zerrouki. I am a recent MSc Mathematics graduate from the Uni
 
 If you wish to know more about me or get in touch, please feel free to take a look at my links, below:
 
+[![Static Badge](https://img.shields.io/badge/eMail-gray)](mailto:m.zakaria.zerrouki@gmail.com)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/m-zakaria-zerrouki)
 [![Static Badge](https://img.shields.io/badge/DataCamp-green)](https://www.datacamp.com/portfolio/mzakariazerrouki)
 [![Static Badge](https://img.shields.io/badge/HackerRank-darkgreen)](https://www.hackerrank.com/profile/mzakariazerrouki)
 [![Static Badge](https://img.shields.io/badge/CodeSignal-darkblue)](https://app.codesignal.com/profile/mzakariaz)
 [![Static Badge](https://img.shields.io/badge/Kaggle-cyan)](https://www.kaggle.com/zakariazerrouki)
-[![Static Badge](https://img.shields.io/badge/eMail-gray)](mailto:m.zakaria.zerrouki@gmail.com)
 
 Thank you for stopping by! 😄
 
