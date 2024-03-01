@@ -28,6 +28,9 @@ Thank you for stopping by! 😄
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mzakariaz&color=red&style=for-the-badge&label=PROFILE_VISITS)
 
+[![mzakariaz's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mzakariaz)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Credits
 - Static badges provided by [Shields.io](https://shields.io/)
 - Profile visits badge provided by [Anton Komarev](https://github.com/antonkomarev)
+- GitHub Stats Card provided by [Anurag Hazra](https://github.com/anuraghazra)
