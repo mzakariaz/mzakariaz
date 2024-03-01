@@ -16,13 +16,13 @@ See my profile statistics here:
 <br/>
 
 <a href="#">
-  <img height = 200 align="center" src="https://github-readme-stats.vercel.app/api?username=mzakariaz&show_icons=true&layout=compact&theme=radical"/>
+  <img height = 200 align="center" src="https://github-readme-stats.vercel.app/api?username=mzakariaz&show_icons=true&layout=compact&theme=neon"/>
 </a>
 <a href="#">
-  <img height = 200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzakariaz&layout=compact&theme=radical"/>
+  <img height = 200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzakariaz&layout=compact&theme=neon"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height = 234 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mzakariaz&layout=compact&theme=radical"/>
+  <img height = 234 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mzakariaz&layout=compact&theme=neon"/>
 </a>
 
 <br/>
