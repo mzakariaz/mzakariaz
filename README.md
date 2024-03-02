@@ -28,12 +28,14 @@ See my profile statistics here:
 
 If you wish to know more about me or get in touch, please feel free to take a look at my links, below:
 
-[![Static Badge](https://img.shields.io/badge/Gmail-red?logo=gmail&labelColor=gray)](mailto:m.zakaria.zerrouki@gmail.com)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&labelColor=gray)](https://www.linkedin.com/in/m-zakaria-zerrouki)
-[![Static Badge](https://img.shields.io/badge/DataCamp-green?logo=datacamp&labelColor=gray)](https://www.datacamp.com/portfolio/mzakariazerrouki)
-[![Static Badge](https://img.shields.io/badge/HackerRank-darkgreen?logo=hackerrank&labelColor=gray)](https://www.hackerrank.com/profile/mzakariazerrouki)
-[![Static Badge](https://img.shields.io/badge/CodeSignal-darkblue?logo=codesignal&labelColor=gray)](https://app.codesignal.com/profile/mzakariaz)
-[![Static Badge](https://img.shields.io/badge/Kaggle-cyan?logo=kaggle&labelColor=gray)](https://www.kaggle.com/zakariazerrouki)
+[![Static Badge](https://img.shields.io/badge/Gmail-red?logo=gmail&labelColor=lightgray&style=for-the-badge)](mailto:m.zakaria.zerrouki@gmail.com)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&labelColor=lightgray&style=for-the-badge)](https://www.linkedin.com/in/m-zakaria-zerrouki)
+[![Static Badge](https://img.shields.io/badge/DataCamp-green?logo=datacamp&labelColor=lightgray&style=for-the-badge)](https://www.datacamp.com/portfolio/mzakariazerrouki)
+[![Static Badge](https://img.shields.io/badge/HackerRank-darkgreen?logo=hackerrank&labelColor=lightgray&style=for-the-badge)](https://www.hackerrank.com/profile/mzakariazerrouki)
+[![Static Badge](https://img.shields.io/badge/CodeSignal-darkblue?logo=codesignal&labelColor=lightgray&style=for-the-badge)](https://app.codesignal.com/profile/mzakariaz)
+[![Static Badge](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&labelColor=lightgray&style=for-the-badge)](https://www.kaggle.com/zakariazerrouki)
+[![Static Badge](https://img.shields.io/badge/Discord-blueviolet?logo=discord&labelColor=lightgray&style=for-the-badge)](https://discordapp.com/users/1212842838350626857)
+
 
 Thank you for stopping by! 😄
 
