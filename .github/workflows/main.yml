@@ -1,16 +1,17 @@
-name: Wakatime Charts
+name: Update README with my latest coding stats
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '30 5 * * *'
 
 jobs:
-  update-charts:
-    name: Update wakatime stats charts
+  update-Readme:
+    name: Automatically update my README  
     runs-on: ubuntu-latest
     steps:
-      - uses: dvjn/wakatime-charts@master
+      - uses: tariksahni/coding-stats-wakatime@v1.0.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
+          SHOW_MONTHLY: true
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_ACTION: ${{ github.action }}
