@@ -2,20 +2,18 @@
 My name is Zakaria Zerrouki. I am a recent MSc Mathematics graduate from the University of Michigan - Ann Arbor, and an aspiring quantitative analyst. I will be posting all of my coding side projects and any other notable contributions to the wider technology community here on GitHub. Here are a few more facts about me:
 
 - 📖 **I studied:** Mathematical Analysis, Topology, Probability Theory, Computational Finance, Combinatorics and Graph Theory.
-- 👨‍💻 **I can use:** <img src="https://cdn.simpleicons.org/python" alt="Python" width=15 height=15> </img> Python, <img src="https://cdn.simpleicons.org/r" alt="R" width=15 height=15> </img> R, <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width=15 height=15> </img> PostgreSQL, <img src="https://cdn.simpleicons.org/microsoftexcel" alt="Microsoft Excel" width=15 height=15> </img> Microsoft Excel/VBA, <img src="https://cdn.simpleicons.org/markdown" alt="MarkDown" width=15 height=15> </img> MarkDown, <img src="https://cdn.simpleicons.org/latex" alt="LaTeX" width=15 height=15> </img> LaTeX
+- 👨‍💻 **I can use:** <img src="https://cdn.simpleicons.org/python" alt="Python" width=15 height=15> </img> Python, <img src="https://cdn.simpleicons.org/r" alt="R" width=15 height=15> </img> R, <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width=15 height=15> </img> PostgreSQL, <img src="https://cdn.simpleicons.org/microsoftexcel" alt="Microsoft Excel" width=15 height=15> </img> Microsoft Excel/VBA, <img src="https://cdn.simpleicons.org/markdown" alt="MarkDown" width=15 height=15> </img> MarkDown and <img src="https://cdn.simpleicons.org/latex" alt="LaTeX" width=15 height=15> </img> LaTeX
 - 🛠️ **I am working on:** [Pure Mathematics](https://github.com/mzakariaz/side-projects/tree/main/mathematics/python) and [Quantitative Finance](https://github.com/mzakariaz/side-projects/tree/main/quantitative-finance/python) projects.
-- 💡 **I am active on:** <img src="https://cdn.simpleicons.org/datacamp" alt="DataCamp" width=15 height=15> DataCamp, <img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width=15 height=15> HackerRank, <img src="https://cdn.simpleicons.org/codesignal" alt="CodeSignal" width=15 height=15> CodeSignal
+- 💡 **I am active on:** <img src="https://cdn.simpleicons.org/datacamp" alt="DataCamp" width=15 height=15> DataCamp, <img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width=15 height=15> HackerRank and <img src="https://cdn.simpleicons.org/codesignal" alt="CodeSignal" width=15 height=15> CodeSignal
 - ⚡ **Fun fact:** <img src="https://cdn.simpleicons.org/latex" alt="LaTeX" width=15 height=15> </img> LaTeX is the first programming language I learned.
 
 See my profile statistics here:
 
-<br/>
 <div>
   <img width = 49% align="center" src="https://github-readme-stats.vercel.app/api?username=mzakariaz&show_icons=true&layout=compact&theme=neon"/>
  <img width = 49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzakariaz&layout=compact&theme=neon"/>
  <img width = 100% height = auto align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mzakariaz&layout=compact&theme=neon"/>
 </div>
-<br/>
 <br/>
 
 If you wish to know more about me or get in touch, please feel free to take a look at my links, below:
