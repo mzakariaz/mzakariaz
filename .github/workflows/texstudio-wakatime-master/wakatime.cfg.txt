@@ -1,2 +1,0 @@
-[settings]
-api_key = secrets.WAKATIME_API_KEY
