@@ -1,0 +1,2 @@
+[settings]
+api_key = waka_131248f9-0a54-4e17-b7f1-cd7553adb124
