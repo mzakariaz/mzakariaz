@@ -36,4 +36,3 @@ Thank you for stopping by! 😄
 - Logos and color codes provided by [Simple Icons](https://simpleicons.org/)
 - Profile visits badge provided by [Anton Komarev](https://github.com/antonkomarev)
 - GitHub statistics cards provided by [Anurag Hazra](https://github.com/anuraghazra)
-- WakaTime statistics workflow provided by [Tarik Sahni](https://github.com/tariksahni/)
