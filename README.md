@@ -35,4 +35,5 @@ Thank you for stopping by! 😄
 - Static badges provided by [Shields.io](https://shields.io/)
 - Logos and color codes provided by [Simple Icons](https://simpleicons.org/)
 - Profile visits badge provided by [Anton Komarev](https://github.com/antonkomarev)
-- GitHub Statistics Cards provided by [Anurag Hazra](https://github.com/anuraghazra)
+- GitHub statistics cards provided by [Anurag Hazra](https://github.com/anuraghazra)
+- WakaTime statistics workflow provided by [Anmol Singh](https://github.com/anmol098/)
