@@ -1,27 +1,17 @@
-name: Custom WakaTime Readme
+name: Update README with my latest coding stats
 
 on:
   schedule:
-    - cron: '30 18 * * *' # Runs at 12am IST
-  workflow_dispatch:
+    - cron: '30 5 * * *'
 
 jobs:
-  update-readme:
-    name: Update Readme with WakaTime Metrics
+  update-Readme:
+    name: Automatically update my README  
     runs-on: ubuntu-latest
     steps:
-      - name: Clone repository
-        uses: actions/checkout@v2
-
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - uses: tariksahni/coding-stats-wakatime@v1.0.0
         with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install httpx # or any other HTTP library needed for API requests
-
-      - name: Update Readme
-        run: python script.py # Implement your script to update the readme using WakaTime API
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_MONTHLY: true
+          GITHUB_TOKEN: ${{ secrets.token }}
+          GITHUB_ACTION: ${{ github.action }}
