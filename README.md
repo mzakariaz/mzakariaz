@@ -12,7 +12,7 @@ See my profile statistics here:
 <div>
   <img width = 49% align="center" src="https://github-readme-stats.vercel.app/api?username=mzakariaz&show_icons=true&layout=compact&theme=neon"/>
  <img width = 49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzakariaz&layout=compact&theme=neon"/>
- <img width = 100% height = auto align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mzakariaz&layout=compact&theme=neon"/>
+ <img width = 100% height = auto align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mzakariaz&layout=compact&hide=other&theme=neon"/>
 </div>
 <br/>
 
