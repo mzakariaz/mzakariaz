@@ -25,7 +25,7 @@ If you wish to know more about me or get in touch, please feel free to take a lo
 [![Static Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&labelColor=white&style=plastic&logoColor=20BEFF)](https://www.kaggle.com/zakariazerrouki)
 [![Static Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&labelColor=white&style=plastic&logoColor=5865F2)](https://discordapp.com/users/1212842838350626857)
 
-Thank you for stopping by! 😄
+Thank you for stopping by! 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mzakariaz&color=red&style=plastic&label=Profile_Visits)
 
