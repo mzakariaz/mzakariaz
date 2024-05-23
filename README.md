@@ -1,12 +1,15 @@
 ## Hello, and welcome to my personal GitHub page! 👋
-My name is Zakaria Zerrouki. I am a recent MSc Mathematics graduate from the University of Michigan - Ann Arbor, a junior trader and a data analyst. I will be posting all of my coding side projects and any other notable contributions to the wider technology community here on GitHub. See my profile statistics here:
+<p>My name is Zakaria Zerrouki. I am a recent MSc Mathematics graduate from the University of Michigan - Ann Arbor, a junior trader and a data analyst. I will be posting all of my coding side projects and any other notable contributions to the wider technology community here on GitHub. See my profile statistics here:</p>
 <div>
   <img width = 49% align="center" src="https://github-readme-stats.vercel.app/api?username=mzakariaz&show_icons=true&layout=compact&theme=neon"/>
  <img width = 49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzakariaz&layout=compact&theme=neon"/>
  <img width = 100% height = auto align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mzakariaz&layout=compact&hide=other&theme=neon"/>
 </div>
 <br/>
+
 If you wish to know more about me or get in touch, please feel free to take a look at my links, below:
+<br/>
+
 [![Static Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&labelColor=white&style=plastic&logoColor=EA4335)](mailto:m.zakaria.zerrouki@gmail.com)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&labelColor=white&style=plastic&logoColor=0A66C2)](https://www.linkedin.com/in/m-zakaria-zerrouki)
 [![Static Badge](https://img.shields.io/badge/DataCamp-03EF62?logo=datacamp&labelColor=white&style=plastic&logoColor=03EF62)](https://www.datacamp.com/portfolio/mzakariazerrouki)
@@ -17,5 +20,8 @@ If you wish to know more about me or get in touch, please feel free to take a lo
 [![Static Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&labelColor=white&style=plastic&logoColor=20BEFF)](https://www.kaggle.com/zakariazerrouki)
 [![Static Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&labelColor=white&style=plastic&logoColor=5865F2)](https://discordapp.com/users/1212842838350626857)
 
+Thank you for stopping by. 😄
+
+## Credits
 - Static badges provided by [Shields.io](https://shields.io/)
 - Logos and color codes provided by [Simple Icons](https://simpleicons.org/)
