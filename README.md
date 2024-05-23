@@ -22,6 +22,9 @@ If you wish to know more about me or get in touch, please feel free to take a lo
 
 Thank you for stopping by. 😄
 
+![Profile Views](https://komarev.com/ghpvc/?username=mzakariaz&color=red&style=plastic&label=Profile_Visits)
 ## Credits
 - Static badges provided by [Shields.io](https://shields.io/)
 - Logos and color codes provided by [Simple Icons](https://simpleicons.org/)
+- Profile visits badge provided by [Anton Komarev](https://github.com/antonkomarev)
+- GitHub Statistics Cards provided by [Anurag Hazra](https://github.com/anuraghazra)
