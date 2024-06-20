@@ -1,5 +1,5 @@
 ## Hello, and welcome to my personal GitHub page! 👋
-<p>I am a recent MSc Mathematics graduate, a junior trader and a data analyst. I will be posting all of my coding side projects and any other notable contributions to the wider technology community here on GitHub. See my profile statistics here:</p>
+<p>I will be posting all of my coding side projects and any other notable contributions to the wider technology community here on GitHub. See my profile statistics here:</p>
 <div>
   <img width = 49% align="center" src="https://github-readme-stats.vercel.app/api?username=mzakariaz&show_icons=true&layout=compact&theme=neon"/>
  <img width = 49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzakariaz&layout=compact&theme=neon"/>
